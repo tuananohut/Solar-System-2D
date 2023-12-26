@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Solar System Simulation 2D\Solar System Simulation 2D\src\Planet.h(28,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'src/main.cpp')
+  
+  Rose.vcxproj -> C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Solar System Simulation 2D\Solar System Simulation 2D\x64\Debug\Solar System Simulation 2D.exe
